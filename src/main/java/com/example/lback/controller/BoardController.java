@@ -17,6 +17,8 @@ public class BoardController {
     public void add(@RequestBody Board board){
         System.out.println("board = " + board);
         System.out.println("잘넘어옴");
+
+
     }
     
     
